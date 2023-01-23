@@ -1,0 +1,10 @@
+/usr/local/lib/python3.9/site-packages/pep8.py:110: FutureWarning: Possible nested set at position 1
+  EXTRANEOUS_WHITESPACE_REGEX = re.compile(r'[[({] | []}),;:]')
+/Users/andreshenderson/Documents/22. Programacion/AirBnB_clone_v3/tests/test_models/test_place.py:181: SyntaxWarning: "is not" with a literal. Did you mean "!="?
+  if attr is not "_sa_instance_state":
+............................................................................................................
+----------------------------------------------------------------------
+Ran 108 tests in 0.329s
+
+OK
+{'id': 'cae94bc4-7411-49d8-935d-a113f674a601', 'created_at': datetime.datetime(2022, 5, 20, 19, 21, 52, 629936), 'updated_at': datetime.datetime(2022, 5, 20, 19, 21, 52, 629936)}
